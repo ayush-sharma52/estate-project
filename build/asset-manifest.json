@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93a06bd9.css",
+    "main.js": "/static/js/main.84d02785.js",
+    "static/media/image9.jpg": "/static/media/image9.5aceee399536a797ccc4.jpg",
+    "static/media/image13.jpg": "/static/media/image13.65900846e07a5f23e626.jpg",
+    "static/media/villa1.jpg": "/static/media/villa1.9d554364e6172e83b138.jpg",
+    "static/media/image16.jfif": "/static/media/image16.22a3f1a73403e0d7d146.jfif",
+    "static/media/flat.jpg": "/static/media/flat.d3947f2a8780c81b4d22.jpg",
+    "static/media/apartment1.jpg": "/static/media/apartment1.fd84f3895efb98dda057.jpg",
+    "static/media/apartment.jpg": "/static/media/apartment.447eb47778087806ae90.jpg",
+    "static/media/image12.jpg": "/static/media/image12.2620845785902e58e68d.jpg",
+    "static/media/House.jpg": "/static/media/House.9def41098acd4a67783c.jpg",
+    "static/media/villa2.jpg": "/static/media/villa2.e9773eb0e00d6f1a2571.jpg",
+    "static/media/estate-icon-25.jpg": "/static/media/estate-icon-25.82a49d0ef6a8f75a3499.jpg",
+    "static/media/villa4.jfif": "/static/media/villa4.d9fd4cebe4bcae1a50a0.jfif",
+    "static/media/villa3.jfif": "/static/media/villa3.5c7716b55942ef311ce2.jfif",
+    "static/media/image14.jfif": "/static/media/image14.73f5a21a2c05fab60346.jfif",
+    "static/media/image15.jfif": "/static/media/image15.f5e00250219d5e5998a3.jfif",
+    "static/media/image11.jfif": "/static/media/image11.6ca7847ff1087969dd85.jfif",
+    "static/media/image10.jfif": "/static/media/image10.1498541736f04cbebcd2.jfif",
+    "index.html": "/index.html",
+    "main.93a06bd9.css.map": "/static/css/main.93a06bd9.css.map",
+    "main.84d02785.js.map": "/static/js/main.84d02785.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a06bd9.css",
+    "static/js/main.84d02785.js"
+  ]
+}
